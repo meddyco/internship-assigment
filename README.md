@@ -1,4 +1,4 @@
-# intership-assigment
+# internship-assigment
 ## Description
 For this assigment you have to implement a small NextJS app that communicates with https://jsonplaceholder.typicode.com/ API and does the following:
 
